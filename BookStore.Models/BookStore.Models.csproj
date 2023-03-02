@@ -6,4 +6,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="interface\**" />
+    <EmbeddedResource Remove="interface\**" />
+    <None Remove="interface\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Reposity\" />
+  </ItemGroup>
+
 </Project>
