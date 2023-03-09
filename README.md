@@ -1,2 +1,2 @@
-# BookStore
-Melek Ahmed PU project
+# BookStoreB
+PU .NET project group B
